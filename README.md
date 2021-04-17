@@ -2,9 +2,9 @@
 
 Using Pickle library
 
-Train a model in Colab
-Save the model in Colab repo
-Download the trained model
-Upload the trained model in github
-Clone the github repo in Colab
-Use the trained model again with any dataset without training it again
+1. Train a model in Colab
+2. Save the model in Colab repo
+3. Download the trained model
+4. Upload the trained model in github
+5. Clone the github repo in Colab
+6. Use the trained model again with any dataset without training it again
